@@ -1,2 +1,3 @@
 # Testing
-testing some git commands
+testing some git commands\n
+testing merge
