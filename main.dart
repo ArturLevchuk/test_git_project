@@ -7,3 +7,7 @@ void main(List<String> args) {
 double somefunc(int a) {
   return a * 2;
 }
+
+double somefunc2(int a) {
+  return a * 2;
+}
