@@ -4,8 +4,8 @@ void main(List<String> args) {
   print("added third commit)");
 }
 
-double somefunc(int a) {
-  return a * 2;
+int somefunc(int b) {
+  return b * 2;
 }
 
 double somefunc2(int a) {
