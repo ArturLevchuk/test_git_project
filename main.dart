@@ -5,5 +5,6 @@ void main(List<String> args) {
 }
 
 int somefunc(int a, int b) {
-  return a * b;
+  int ar = a * 2;
+  return ar * b;
 }
